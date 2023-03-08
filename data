@@ -1,1 +1,17 @@
-rush app
+{
+    "ads": {"network":"applovin","url":""},
+    "reword": {"items":""},
+    
+    "fan": {
+    "banner":"",
+    "inter":"",
+    "nativ":"",
+    "reword":""},
+    
+    "applovin": {
+    "banner":"73c6e2348758e585",
+    "inter":"be5d927937b95390",
+    "nativ":"8b4a1a2d97e58bb5",
+    "reword":"36b4dc9a2f64eb51"}
+      
+    }
